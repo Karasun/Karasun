@@ -6,7 +6,6 @@ Lille
     <img  src="https://github-readme-stats.vercel.app/api?username=karasun&&show_icons=true&theme=tokyonight"/>
     <br>
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karasun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <div>
     <p>Languages and Tools</p>
