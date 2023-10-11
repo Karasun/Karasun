@@ -5,10 +5,9 @@ Lille
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=karasun&&show_icons=true&theme=tokyonight"/>
     <br>
-    <a href= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)">
   </a>
-  </a>
-<br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karasun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <div>
     <p>Languages and Tools</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
