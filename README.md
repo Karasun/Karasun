@@ -5,7 +5,7 @@ Lille
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=karasun&&show_icons=true&theme=shades-of-purple"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karasun&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karasun&layout=compact&theme=shades-of-purple"/>
   </a>
 <br>
 <div>
