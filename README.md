@@ -25,10 +25,8 @@ Lille
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svgtitle="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg title="Windows11" alt="Windows11" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svgtitle="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg title="Windows11" alt="Windows11" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **Karasun/Karasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
